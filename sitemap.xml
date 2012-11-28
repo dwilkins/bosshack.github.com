@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://bosshack.com/blog/2012/11/27/first-boss-hack-a-thon-scheduled/</loc>
+        <loc>http://bosshack.githubcom/blog/2012/11/27/first-boss-hack-a-thon-scheduled/</loc>
         <lastmod>2012-11-27T22:40:11-06:00</lastmod>
     </url>
     <url>
-        <loc>http://bosshack.com/blog/archives/</loc>
+        <loc>http://bosshack.githubcom/blog/archives/</loc>
         <lastmod>2012-11-27T22:40:11-06:00</lastmod>
     </url>
     <url>
-        <loc>http://bosshack.com/first-hackathon-nominations/</loc>
+        <loc>http://bosshack.githubcom/first-hackathon-nominations/</loc>
         <lastmod>2012-11-27T22:17:48-06:00</lastmod>
     </url>
     <url>
-        <loc>http://bosshack.com/</loc>
+        <loc>http://bosshack.githubcom/</loc>
         <lastmod>2012-11-27T22:40:11-06:00</lastmod>
     </url>
 </urlset>
